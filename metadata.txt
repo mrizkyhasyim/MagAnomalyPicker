@@ -1,0 +1,10 @@
+[general]
+name=MagneticAnomalyPicker
+email=rizkyhasyim16@gmail.com
+author=M Rizky Hasyim
+qgisMinimumVersion=3.0
+description=Tools to pick anomaly from magnetic data
+about=Tools to pick anomaly from magnetic data
+version=version 1
+tracker=-
+repository=https://github.com/mrizkyhasyim/MagAnomalyPicker
